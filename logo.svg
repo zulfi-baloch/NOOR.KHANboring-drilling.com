@@ -1,11 +1,11 @@
-<svg viewBox="0 0 640 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mr Khaki Boring Pvt Ltd logo">
+<svg viewBox="0 0 640 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NOOR.KHAN Boring Pvt Ltd logo">
   <defs>
     <linearGradient id="navyBevel" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#28406B"/>
       <stop offset="55%" stop-color="#182848"/>
       <stop offset="100%" stop-color="#0F1A30"/>
     </linearGradient>
-    <linearGradient id="khakiBevel" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="NOORBevel" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#DAC48A"/>
       <stop offset="55%" stop-color="#BBA268"/>
       <stop offset="100%" stop-color="#93794A"/>
@@ -23,12 +23,12 @@
 
     <!-- ================= CROWN ================= -->
     <g>
-      <circle cx="268" cy="82" r="8" fill="url(#khakiBevel)"/>
-      <circle cx="320" cy="60" r="9.5" fill="url(#khakiBevel)"/>
-      <circle cx="372" cy="82" r="8" fill="url(#khakiBevel)"/>
+      <circle cx="268" cy="82" r="8" fill="url(#NOORBevel)"/>
+      <circle cx="320" cy="60" r="9.5" fill="url(#NOORBevel)"/>
+      <circle cx="372" cy="82" r="8" fill="url(#NOORBevel)"/>
       <path d="M 262,148 L 268,90 L 300,118 L 320,68 L 340,118 L 372,90 L 378,148 Z"
-            fill="url(#khakiBevel)" stroke="#7A6438" stroke-width="1.5" stroke-linejoin="round"/>
-      <rect x="258" y="146" width="124" height="16" rx="3" fill="url(#khakiBevel)" stroke="#7A6438" stroke-width="1.5"/>
+            fill="url(#NOORBevel)" stroke="#7A6438" stroke-width="1.5" stroke-linejoin="round"/>
+      <rect x="258" y="146" width="124" height="16" rx="3" fill="url(#NOORBevel)" stroke="#7A6438" stroke-width="1.5"/>
       <circle cx="320" cy="154" r="4" fill="#0F1A30"/>
     </g>
 
@@ -45,8 +45,8 @@
         <rect x="256" y="282" width="9" height="12"/>
       </g>
 
-      <!-- right khaki tower -->
-      <polygon points="412,200 412,430 362,430 362,224 387,200" fill="url(#khakiBevel)"/>
+      <!-- right NOOR tower -->
+      <polygon points="412,200 412,430 362,430 362,224 387,200" fill="url(#NOORBevel)"/>
       <g fill="#7A6438" opacity="0.85">
         <rect x="372" y="248" width="9" height="12"/>
         <rect x="390" y="248" width="9" height="12"/>
@@ -58,7 +58,7 @@
 
       <!-- ground skyline strip -->
       <path d="M 170,430 L 198,430 L 198,406 L 220,406 L 220,430 L 420,430 L 420,406 L 442,406 L 442,430 L 470,430 L 470,448 L 170,448 Z"
-            fill="url(#khakiBevel)"/>
+            fill="url(#NOORBevel)"/>
     </g>
 
     <!-- ================= SHIELD ================= -->
@@ -81,7 +81,7 @@
       <g clip-path="url(#shieldClip)">
         <g transform="translate(320,330) rotate(45)">
           <rect x="-110" y="-110" width="110" height="220" fill="url(#navyBevel)"/>
-          <rect x="0" y="-110" width="110" height="220" fill="url(#khakiBevel)"/>
+          <rect x="0" y="-110" width="110" height="220" fill="url(#NOORBevel)"/>
         </g>
       </g>
       <path d="M 222,178 L 418,178 L 418,354 
@@ -98,7 +98,7 @@
         <polygon points="278,320 360,255 388,255 306,325 388,405 358,405 278,335"/>
       </g>
       <!-- B, offset to overlap K's diagonal leg for a woven feel -->
-      <g fill="url(#khakiBevel)">
+      <g fill="url(#NOORBevel)">
         <rect x="330" y="255" width="26" height="150" rx="3"/>
         <path d="M 356,255 C 400,255 400,318 360,320 C 404,322 404,405 356,405
                  L 356,378 C 378,378 378,347 356,347
@@ -111,7 +111,7 @@
 
   <!-- ================= WORDMARK ================= -->
   <g font-family="'Arial Black', Arial, Helvetica, sans-serif" text-anchor="middle" fill="#182848">
-    <text x="320" y="605" font-size="58" font-weight="900" letter-spacing="0.5">MR. KHAKI BORING</text>
+    <text x="320" y="605" font-size="58" font-weight="900" letter-spacing="0.5">NOOR.KHAN BORING</text>
     <text x="320" y="652" font-size="34" font-weight="700" letter-spacing="3">(PVT) LTD.</text>
   </g>
 </svg>
